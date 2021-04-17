@@ -29,7 +29,7 @@ Actualizacion 0.2:
 			>index.html
 Actualizacion 0.3:
 	Se añade:
-		>img_aetea_07.jpg
+		>img_aerea_07.jpg
 		>img_demo_gamer.jpg
 		>img_demo_dron_02.jpg
 		>img_demo_dron_03.jpg
@@ -37,7 +37,19 @@ Actualizacion 0.3:
 	Se actualizan:
 		>index.html
 		>quienes_somos.html
-	
+Actualizacion 0.4:
+	Se añade:
+		>img_fotogrametria.jpg
+		>img_modelamiento_3d.jpg
+		>img_monitoreo_obra.jpg
+		>img_ortomosaico.jpg
+		>img_termica.jpg
+	Se actualizan:
+		>index.html
+		>quienes_somos.html
+Actualizacion 0.5:
+	Se corrigen errores ortograficos y se modifica el aspecto de las paginas
+	 
 
 
 
