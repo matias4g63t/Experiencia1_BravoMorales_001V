@@ -27,6 +27,18 @@ Actualizacion 0.2:
 		>Se actualiza:
 			>README.md
 			>index.html
+Actualizacion 0.3:
+	Se añade:
+		>img_aetea_07.jpg
+		>img_demo_gamer.jpg
+		>img_demo_dron_02.jpg
+		>img_demo_dron_03.jpg
+		>img_demo_dron_04.jpg
+	Se actualizan:
+		>index.html
+		>quienes_somos.html
+	
+
 
 
 
